@@ -1,0 +1,6 @@
+{
+  "name": "AI Chat Assistant",
+  "description": "A modern, full-stack conversational AI assistant chat interface built on Gemini, featuring message streaming, code highlight with copy, and customizable system personas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
